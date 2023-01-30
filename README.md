@@ -15,13 +15,13 @@ Mimir is a humble attempt at creating a new tool for organizing corporations and
 
 The project is named after Mimir, a god in Norse mythology, known for being one of the wisest of gods. It seeks to be your one source of wisdom as an industrialist in Eve Online.
 
-## Requirements
-
-* Still figuring these out. Most likely we need Node.js. *
-
 ## Installation
 
 * We might have to implement some code, before you can actually install and run it. *
+
+### Requirements
+
+* Still figuring these out. Most likely we need Node.js. *
 
 ## Demonstration
 
